@@ -1,5 +1,5 @@
 Hello World
 
-IF(Merge-branch){
-    false;
+IF (merge-branch){
+     false;
 }
